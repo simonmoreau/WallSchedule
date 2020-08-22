@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+  <RevitAddIns>
+    <AddIn Type="DBApplication">
+      <Name>WallSchedule</Name>
+      <Assembly>.\WallSchedule.dll</Assembly>
+      <AddInId>be978d24-8131-4da3-a1fa-33fc38f747a6</AddInId>
+      <FullClassName>WallSchedule.WallScheduleApp</FullClassName>
+      <Description>"Create a wall schedule"</Description>
+      <VendorId>BIM 42</VendorId>
+      <VendorDescription>
+      </VendorDescription>
+    </AddIn>
+  </RevitAddIns>
